@@ -1,0 +1,4 @@
+Project #3 : Titanic Survival Prediction
+
+Observation from numerical column:
+1. Age - fairly normal distribution
